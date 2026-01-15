@@ -60,7 +60,7 @@ Accidents vary from minor to fatal. This project predicts severity levels from a
 
 ---
 
-## 📊 Results (Snapshot)
+## 📊 Results 
 > Your project compares multiple models — best result may vary depending on feature selection & sampling.
 
 **Example from evaluation table:**
